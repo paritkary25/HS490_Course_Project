@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1680634110 "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" "HS490.pdf" "HS490" 1680634111 0
+["pdflatex"] 1680636959 "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" "HS490.pdf" "HS490" 1680636961 0
+  "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -74,6 +75,7 @@
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/YASH/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1680600721 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/YASH/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1679925539 11548 cfafd5b77d61c781fc049011b23bb7f9 ""
   "C:/Users/YASH/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679922818 23166556 889bcfb6f2933e825047be7d678d85f7 ""
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -95,13 +97,13 @@
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/latex/pdflscape/pdflscape.sty" 1668505912 2224 1230ab76aa62221ccbd90bca8c8c015e ""
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
-  "HS490.aux" 1680634111 806 791cb5be50f3afe6bfc95d6be72e910b "pdflatex"
-  "HS490.lof" 1680634111 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "HS490.lot" 1680634111 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "HS490.out" 1680634111 355 60801592ed94d758a39d6a4f518f3bf2 "pdflatex"
-  "HS490.tex" 1680634110 2403 b7f065506237a9a24093e6fd116635c5 ""
-  "HS490.toc" 1680634111 170 7e653019cee1fb095955a70440c6c059 "pdflatex"
-  "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" 1680634110 2403 b7f065506237a9a24093e6fd116635c5 ""
+  "HS490.aux" 1680636960 929 06e53f416f1f598c913b44aadb819ebc "pdflatex"
+  "HS490.lof" 1680636960 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "HS490.lot" 1680636960 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "HS490.out" 1680636960 495 bba273b9feeb17a17d0292d792d6a8cd "pdflatex"
+  "HS490.tex" 1680636956 3394 59487be46910f6dd38cb8b80321913a6 ""
+  "HS490.toc" 1680636960 252 bf747275931ffcc85ce77d4407c01b41 "pdflatex"
+  "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" 1680636956 3394 59487be46910f6dd38cb8b80321913a6 ""
   (generated)
   "HS490.aux"
   "HS490.lof"
