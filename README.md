@@ -1,4 +1,4 @@
-# LaTeK
+# HS490_Course_Project
 HS490: Organisation Behaviour
 Topic: Reflection of National Culture in Civil Hospital, Jalna
 
