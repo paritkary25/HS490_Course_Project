@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  5 APR 2023 01:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  5 APR 2023 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,21 +392,30 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `HS490.lot'.
 
  [4] [5] (HS490.aux)
-Package rerunfilecheck Info: File `HS490.out' has not changed.
-(rerunfilecheck)             Checksum: BBA273B9FEEB17A17D0292D792D6A8CD;495.
+
+Package rerunfilecheck Warning: File `HS490.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `HS490.out':
+(rerunfilecheck)             Before: 399C5E313D536ECDB3C2D11F59708BDB;562
+(rerunfilecheck)             After:  BBA273B9FEEB17A17D0292D792D6A8CD;495.
  ) 
 Here is how much of TeX's memory you used:
- 12256 strings out of 476334
- 189598 string characters out of 5797789
- 1856382 words of memory out of 5000000
- 32494 multiletter control sequences out of 15000+600000
+ 12258 strings out of 476334
+ 189628 string characters out of 5797789
+ 1857382 words of memory out of 5000000
+ 32495 multiletter control sequences out of 15000+600000
  520792 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,560b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.1.3} has been referenced but does not exist, replaced by a fixed one
+
  <C:\Users\YASH\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on HS490.pdf (5 pages, 84498 bytes).
+Output written on HS490.pdf (5 pages, 85524 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
