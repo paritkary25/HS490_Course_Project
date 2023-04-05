@@ -1,4 +1,13 @@
 \contentsline {section}{\numberline {1}Introduction to National Culture}{5}{section.1}%
 \contentsline {subsection}{\numberline {1.1}What is Culture?}{5}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}National Culture and Hofstede's Study on National Culture}{5}{subsection.1.2}%
-\contentsline {section}{\numberline {2}National Culture of India}{6}{section.2}%
+\contentsline {subsection}{\numberline {1.2}National Culture}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Hofstede's Study on National Culture}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}National Culture of India}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Hofstedes Research on National Culture of India}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Power Distance}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Long-Term Orientation}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Masculinity}{8}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Individualism}{8}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Uncertainity Aviodance}{8}{subsubsection.2.2.5}%
+\contentsline {section}{\numberline {3}Assesment of National Culture of India on Hofstedes Cultural Dimension Theory}{8}{section.3}%
