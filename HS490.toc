@@ -1,4 +1,4 @@
 \contentsline {section}{\numberline {1}Introduction to National Culture}{5}{section.1}%
 \contentsline {subsection}{\numberline {1.1}What is Culture?}{5}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}National Culture}{5}{subsection.1.2}%
-\contentsline {section}{\numberline {2}National Culture of India}{5}{section.2}%
+\contentsline {subsection}{\numberline {1.2}National Culture and Hofstede's Study on National Culture}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}National Culture of India}{6}{section.2}%
