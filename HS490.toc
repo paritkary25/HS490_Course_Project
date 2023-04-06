@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {5.3}Meetings}{14}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}Pattern of context}{15}{subsection.5.4}%
 \contentsline {subsection}{\numberline {5.5}Achievement or Ascription based}{15}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Specific or Diffuse type}{15}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}Individualistic or Collectivistic}{15}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Control vs Subjugation}{15}{subsection.5.8}%
-\contentsline {section}{\numberline {6}The Conclusion}{15}{section.6}%
+\contentsline {subsection}{\numberline {5.6}Long-Term Orientation}{15}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Individualistic or Collectivistic}{16}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Control vs Subjugation and communication}{16}{subsection.5.8}%
+\contentsline {section}{\numberline {6}The Conclusion}{17}{section.6}%
