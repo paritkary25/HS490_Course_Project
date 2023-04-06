@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  6 APR 2023 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  6 APR 2023 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex"
-(d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex
+**"d:/IITB/Semester 4/HS490/Project/LaTeK/210070096_HS490.tex"
+(d:/IITB/Semester 4/HS490/Project/LaTeK/210070096_HS490.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -319,8 +319,8 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 23.
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count297
 \l__pdf_internal_box=\box59
-) (HS490.aux)
-\openout1 = `HS490.aux'.
+) (210070096_HS490.aux)
+\openout1 = `210070096_HS490.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
@@ -361,9 +361,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count304
 Package hyperref Info: Link coloring ON on input line 55.
- (HS490.out) (HS490.out)
+ (210070096_HS490.out) (210070096_HS490.out)
 \@outlinefile=\write3
-\openout3 = `HS490.out'.
+\openout3 = `210070096_HS490.out'.
 
  (C:\Users\YASH\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -383,17 +383,17 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/YASH/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (HS490.toc)
+{C:/Users/YASH/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (210070096_HS490.toc)
 \tf@toc=\write4
-\openout4 = `HS490.toc'.
+\openout4 = `210070096_HS490.toc'.
 
- [4] (HS490.lof)
+ [4] (210070096_HS490.lof)
 \tf@lof=\write5
-\openout5 = `HS490.lof'.
+\openout5 = `210070096_HS490.lof'.
 
- [5] (HS490.lot)
+ [5] (210070096_HS490.lot)
 \tf@lot=\write6
-\openout6 = `HS490.lot'.
+\openout6 = `210070096_HS490.lot'.
 
  [6] [7] [8] [9] [10] [11] [12] [13]
 <Emotion.png, id=257, 870.8535pt x 469.755pt>
@@ -437,20 +437,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 378--380
 [][]$\OT1/cmtt/m/n/10 https : / / docs . google . com / spreadsheets / d /
  []
 
-[18] (HS490.aux)
-Package rerunfilecheck Info: File `HS490.out' has not changed.
+[18] (210070096_HS490.aux)
+Package rerunfilecheck Info: File `210070096_HS490.out' has not changed.
 (rerunfilecheck)             Checksum: 6C542A3CF765E051D8B7158668424E1A;5618.
  ) 
 Here is how much of TeX's memory you used:
  12411 strings out of 476334
- 192174 string characters out of 5797789
+ 192474 string characters out of 5797789
  1862382 words of memory out of 5000000
  32578 multiletter control sequences out of 15000+600000
  521306 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,1081b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,1091b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\YASH\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on HS490.pdf (18 pages, 396717 bytes).
+Output written on 210070096_HS490.pdf (18 pages, 396717 bytes).
 PDF statistics:
  361 PDF objects out of 1000 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)
