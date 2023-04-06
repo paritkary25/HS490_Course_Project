@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1680733212 "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" "HS490.pdf" "HS490" 1680733213 0
+["pdflatex"] 1680740091 "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" "HS490.pdf" "HS490" 1680740092 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -101,13 +101,15 @@
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/latex/pdflscape/pdflscape.sty" 1668505912 2224 1230ab76aa62221ccbd90bca8c8c015e ""
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/YASH/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
-  "HS490.aux" 1680733213 3802 cd4203ce22b82c37ac21fbec1b386994 "pdflatex"
-  "HS490.lof" 1680733213 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "HS490.lot" 1680733213 104 c778aeb3ef202e4c04fbc081edb17372 "pdflatex"
-  "HS490.out" 1680733213 3719 55980aeba7cecc3659957e58d9bc60f1 "pdflatex"
-  "HS490.tex" 1680733211 19252 dcfdccbf61dfa4f0be507690c16393be ""
-  "HS490.toc" 1680733213 1842 cf958a9be1ebe8654489af6ab212401e "pdflatex"
-  "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" 1680733211 19252 dcfdccbf61dfa4f0be507690c16393be ""
+  "Emotion.png" 1680738247 96200 be50c2193e82b143596b80fa01698bec ""
+  "HS490.aux" 1680740092 5828 d1e30b94dd1b6916c1236802d97f7d5d "pdflatex"
+  "HS490.lof" 1680740092 211 04d15ff74d73347f4a9608a9553ed416 "pdflatex"
+  "HS490.lot" 1680740092 197 af037e885746ce061682f3478d295745 "pdflatex"
+  "HS490.out" 1680740092 5543 ffc27fbf762cc23140fd7b2f0417eb58 "pdflatex"
+  "HS490.tex" 1680740090 23722 7d3b9522fc17906f4f7ec5a7066c4174 ""
+  "HS490.toc" 1680740092 2732 8ed8a8ed1d88bac927cfdfdbc614fbd9 "pdflatex"
+  "Meeting.png" 1680739694 52107 e6079c888ff81801fe2b8f96637fd76f ""
+  "d:/IITB/Semester 4/HS490/Project/LaTeK/HS490.tex" 1680740090 23722 7d3b9522fc17906f4f7ec5a7066c4174 ""
   (generated)
   "HS490.aux"
   "HS490.lof"

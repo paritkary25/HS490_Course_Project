@@ -731,6 +731,20 @@ OUTPUT HS490.lot
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\Emotion.png
+INPUT .\Emotion.png
+INPUT Emotion.png
+INPUT .\Emotion.png
+INPUT .\Emotion.png
+INPUT .\Emotion.png
+INPUT .\Emotion.png
+INPUT .\Meeting.png
+INPUT .\Meeting.png
+INPUT Meeting.png
+INPUT .\Meeting.png
+INPUT .\Meeting.png
+INPUT .\Meeting.png
+INPUT .\Meeting.png
 INPUT HS490.aux
 INPUT .\HS490.out
 INPUT .\HS490.out

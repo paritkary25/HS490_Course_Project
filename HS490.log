@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  6 APR 2023 03:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  6 APR 2023 05:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,22 +395,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lot=\write6
 \openout6 = `HS490.lot'.
 
- [6] [7] [8] [9] [10] [11] [12] (HS490.aux)
+ [6] [7] [8] [9] [10] [11] [12] [13]
+<Emotion.png, id=255, 870.8535pt x 469.755pt>
+File: Emotion.png Graphic file (type png)
+<use Emotion.png>
+Package pdftex.def Info: Emotion.png  used on input line 281.
+(pdftex.def)             Requested size: 325.215pt x 175.42656pt.
+<Meeting.png, id=257, 626.34pt x 348.1005pt>
+File: Meeting.png Graphic file (type png)
+<use Meeting.png>
+Package pdftex.def Info: Meeting.png  used on input line 292.
+(pdftex.def)             Requested size: 289.07999pt x 160.66463pt.
+ [14 <./Emotion.png>] [15 <./Meeting.png>] (HS490.aux)
 Package rerunfilecheck Info: File `HS490.out' has not changed.
-(rerunfilecheck)             Checksum: 55980AEBA7CECC3659957E58D9BC60F1;3719.
+(rerunfilecheck)             Checksum: FFC27FBF762CC23140FD7B2F0417EB58;5543.
  ) 
 Here is how much of TeX's memory you used:
- 12339 strings out of 476334
- 191336 string characters out of 5797789
- 1860382 words of memory out of 5000000
- 32541 multiletter control sequences out of 15000+600000
+ 12394 strings out of 476334
+ 191991 string characters out of 5797789
+ 1862382 words of memory out of 5000000
+ 32568 multiletter control sequences out of 15000+600000
  521138 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,76p,1145b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\YASH\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on HS490.pdf (12 pages, 150034 bytes).
+Output written on HS490.pdf (15 pages, 293471 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 259 words of extra memory for PDF output out of 10000 (max. 10000000)
 
